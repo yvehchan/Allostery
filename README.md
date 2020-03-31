@@ -9,37 +9,4 @@ From our primary high throughput saturating mutagenesis fitness screen of 3 orth
 ## Tools:
   * Python
 
-Scripts for data analysis - fitness, protein expression, secondary structure, stability, activity
-
-## Demo of program
-
-## Main script: master_pipeline.py
-  * Calls secondary Python scripts for data analysis
-
-### Structural data analysis 
-  * CD-spectra-temp-comparison.py
-  
-### Stability data analysis 
-  * ThermalMelt-spectra
-  * TitrationAnalysis-ddg
-  
-### Fitness data analysis
-  * Fitness-avg-scatter
-  
-### Function/activity data analysis
-  * Function-parse-combine-data
-  * Function_plot_vi_scatter_keff_vs_kcat
-
-### Relationship between thermal and thermodynamic stability 
-  * Tm_vs_dG
-  
-### Relationship between protein concentration and fitness
-  * s_vs_protein_conc
-  
-### Relationship between protein stability and fitness
-  * s_vs_dGNI_Tm
-  
-### Relationship between protein stability and activity 
-
-### Model for relationship between stabilty, activity, and fitness
-
+Jupyter notebooks for data analysis - fitness, protein expression, secondary structure, stability, activity
