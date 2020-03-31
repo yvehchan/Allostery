@@ -6,7 +6,7 @@ Protein characterization to determine molecular mechanism of allosteric, benefic
 ## Summary of reseach 
 From our primary high throughput saturating mutagenesis fitness screen of 3 orthologous TIM-barrel IGPS proteins, a number of mutations yielded a fitness advantage over the wildtype. Strikingly, some allosteric mutations were beneficial. Of particular interest, mutations of  stability elements called beta-alpha hairpin clamps that are found on the opposite face of active site in the TIM barrel, were beneficial. These hairpin clamps are conserved in TIM barrel proteins. Integration of multiple data sets from secondary assays to probe structure, stability, and activity will be used to build a working model for the molecular mechanism of these beneficial mutations. Understanding how protein sequence relate to protein stability and activity provides a basic foundation for protein design and engineering. 
 
-## Dataa:
+## Data:
   * Fitness
   * Expression
   * Secondary structure
